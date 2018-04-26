@@ -1,0 +1,373 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="WCV.com" resolutions="1x" timestamp="1524749572753">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_b-master.css" crc="3784404807" ref="california:mission:programs:hawaii:arizona:events:states:nevada:scholarships:washington"/>
+    <file name="master_a-master.css" crc="4054960530" ref="contact-us:index:supporters:who-we-are:blog"/>
+    <file name="california.css" crc="48337750" ref="california"/>
+    <file name="mission.css" crc="4215621031" ref="mission"/>
+    <file name="programs.css" crc="157484942" ref="programs"/>
+    <file name="hawaii.css" crc="344989650" ref="hawaii"/>
+    <file name="contact-us.css" crc="3870816894" ref="contact-us"/>
+    <file name="index.css" crc="4190282301" ref="index"/>
+    <file name="arizona.css" crc="3985537050" ref="arizona"/>
+    <file name="events.css" crc="3762133089" ref="events"/>
+    <file name="supporters.css" crc="148268396" ref="supporters"/>
+    <file name="states.css" crc="48887301" ref="states"/>
+    <file name="nevada.css" crc="201313470" ref="nevada"/>
+    <file name="who-we-are.css" crc="225231209" ref="who-we-are"/>
+    <file name="scholarships.css" crc="4174231989" ref="scholarships"/>
+    <file name="washington.css" crc="3760668581" ref="washington"/>
+    <file name="blog.css" crc="341169639" ref="blog"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:who-we-are:states:supporters:blog:contact-us:arizona:nevada:washington:california:hawaii:mission:scholarships:programs:events"/>
+    <file name="museutils.js" crc="340535759" ref="index:who-we-are:states:supporters:blog:contact-us:arizona:nevada:washington:california:hawaii:mission:scholarships:programs:events"/>
+    <file name="whatinput.js" crc="86476730" ref="index:who-we-are:states:supporters:blog:contact-us:arizona:nevada:washington:california:hawaii:mission:scholarships:programs:events"/>
+    <file name="museconfig.js" crc="310584261" ref="index:who-we-are:states:supporters:blog:contact-us:arizona:nevada:washington:california:hawaii:mission:scholarships:programs:events"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:who-we-are:states:supporters:blog:contact-us:arizona:nevada:washington:california:hawaii:mission:scholarships:programs:events"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:who-we-are:states:supporters:blog:contact-us:arizona:nevada:washington:california:hawaii:mission:scholarships:programs:events"/>
+    <file name="webpro.js" crc="4059564322" ref="index:contact-us"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:who-we-are:states:supporters:blog:contact-us:arizona:nevada:washington:california:hawaii:mission:scholarships:programs:events"/>
+    <file name="require.js" crc="7928878" ref="index:who-we-are:states:supporters:blog:contact-us:arizona:nevada:washington:california:hawaii:mission:scholarships:programs:events"/>
+    <file name="form_check.php" crc="4020933626" ref="contact-us"/>
+    <file name="form_throttle.php" crc="4259590256" ref="contact-us"/>
+    <file name="form_process.php" crc="37464564" ref="contact-us"/>
+    <file name="form-u6002.php" crc="4118555813" ref="contact-us"/>
+  </folder>
+  <folder name="images">
+    <file name="pasted-svg-59566x198.svg" crc="3758649992" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 59566x198_poster_.png" crc="4133272033" ref="index"/>
+    <file name="pasted-svg-224x43.svg" crc="4217983985" seo="true" ref="index:who-we-are:states:supporters:blog:contact-us:arizona:nevada:washington:california:hawaii:mission:scholarships:programs:events">
+      <caption webpage="mission" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="california" alt=""/>
+      <caption webpage="programs" alt=""/>
+      <caption webpage="supporters" alt=""/>
+      <caption webpage="arizona" alt=""/>
+      <caption webpage="nevada" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="scholarships" alt=""/>
+      <caption webpage="hawaii" alt=""/>
+      <caption webpage="who-we-are" alt=""/>
+      <caption webpage="washington" alt=""/>
+      <caption webpage="states" alt=""/>
+    </file>
+    <file name="pasted svg 224x43_poster_.png" crc="3956792290" ref="index"/>
+    <file name="arrowmenudown.png" crc="262559161" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arrowmenuright.png" crc="41086373" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted-svg-273411x318.svg" crc="77605694" seo="true" ref="index:states">
+      <caption webpage="index" alt=""/>
+      <caption webpage="states" alt=""/>
+    </file>
+    <file name="pasted svg 273411x318_poster_.png" crc="3774504468" ref="index"/>
+    <file name="pasted-svg-15994x239.svg" crc="302391232" seo="true" ref="index:states">
+      <caption webpage="index" alt=""/>
+      <caption webpage="states" alt=""/>
+    </file>
+    <file name="pasted svg 15994x239_poster_.png" crc="234414670" ref="index"/>
+    <file name="pasted-svg-158903x176.svg" crc="181422978" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 158903x176_poster_.png" crc="4233184054" ref="index"/>
+    <file name="1.jpg" crc="3846169181" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="2.jpg" crc="375660557" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3.jpg" crc="4283127144" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4.jpg" crc="3934032714" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="pasted-svg-32599x27.svg" crc="3813805751" seo="true" ref="index:who-we-are:states:supporters:blog:contact-us:arizona:nevada:washington:california:hawaii:mission:scholarships:programs:events">
+      <caption webpage="mission" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="california" alt=""/>
+      <caption webpage="programs" alt=""/>
+      <caption webpage="supporters" alt=""/>
+      <caption webpage="arizona" alt=""/>
+      <caption webpage="nevada" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="scholarships" alt=""/>
+      <caption webpage="hawaii" alt=""/>
+      <caption webpage="who-we-are" alt=""/>
+      <caption webpage="washington" alt=""/>
+      <caption webpage="states" alt=""/>
+    </file>
+    <file name="pasted svg 32599x27_poster_.png" crc="102068692" ref="index"/>
+    <file name="pasted-svg-35293x27.svg" crc="4173324489" seo="true" ref="index:who-we-are:states:supporters:blog:contact-us:arizona:nevada:washington:california:hawaii:mission:scholarships:programs:events">
+      <caption webpage="mission" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="california" alt=""/>
+      <caption webpage="programs" alt=""/>
+      <caption webpage="supporters" alt=""/>
+      <caption webpage="arizona" alt=""/>
+      <caption webpage="nevada" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="scholarships" alt=""/>
+      <caption webpage="hawaii" alt=""/>
+      <caption webpage="who-we-are" alt=""/>
+      <caption webpage="washington" alt=""/>
+      <caption webpage="states" alt=""/>
+    </file>
+    <file name="pasted svg 35293x27_poster_.png" crc="108740011" ref="index"/>
+    <file name="pasted-svg-33879x27.svg" crc="4223552674" seo="true" ref="index:who-we-are:states:supporters:blog:contact-us:arizona:nevada:washington:california:hawaii:mission:scholarships:programs:events">
+      <caption webpage="mission" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="california" alt=""/>
+      <caption webpage="programs" alt=""/>
+      <caption webpage="supporters" alt=""/>
+      <caption webpage="arizona" alt=""/>
+      <caption webpage="nevada" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="scholarships" alt=""/>
+      <caption webpage="hawaii" alt=""/>
+      <caption webpage="who-we-are" alt=""/>
+      <caption webpage="washington" alt=""/>
+      <caption webpage="states" alt=""/>
+    </file>
+    <file name="pasted svg 33879x27_poster_.png" crc="3892134662" ref="index"/>
+    <file name="pasted-svg-32464x27.svg" crc="4003022794" seo="true" ref="index:who-we-are:states:supporters:blog:contact-us:arizona:nevada:washington:california:hawaii:mission:scholarships:programs:events">
+      <caption webpage="mission" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="california" alt=""/>
+      <caption webpage="programs" alt=""/>
+      <caption webpage="supporters" alt=""/>
+      <caption webpage="arizona" alt=""/>
+      <caption webpage="nevada" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="scholarships" alt=""/>
+      <caption webpage="hawaii" alt=""/>
+      <caption webpage="who-we-are" alt=""/>
+      <caption webpage="washington" alt=""/>
+      <caption webpage="states" alt=""/>
+    </file>
+    <file name="pasted svg 32464x27_poster_.png" crc="503885194" ref="index"/>
+    <file name="pasted-svg-29299x27.svg" crc="4207364915" seo="true" ref="index:who-we-are:states:supporters:blog:contact-us:arizona:nevada:washington:california:hawaii:mission:scholarships:programs:events">
+      <caption webpage="mission" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="california" alt=""/>
+      <caption webpage="programs" alt=""/>
+      <caption webpage="supporters" alt=""/>
+      <caption webpage="arizona" alt=""/>
+      <caption webpage="nevada" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="scholarships" alt=""/>
+      <caption webpage="hawaii" alt=""/>
+      <caption webpage="who-we-are" alt=""/>
+      <caption webpage="washington" alt=""/>
+      <caption webpage="states" alt=""/>
+    </file>
+    <file name="pasted svg 29299x27_poster_.png" crc="475121422" ref="index"/>
+    <file name="pasted-svg-11899x112.svg" crc="4178877041" seo="true" ref="who-we-are">
+      <caption webpage="who-we-are" alt=""/>
+    </file>
+    <file name="pasted svg 11899x112_poster_.png" crc="4033858237" ref="who-we-are"/>
+    <file name="u6668-6.png" crc="3943481826" ref="who-we-are"/>
+    <file name="u6667-6.png" crc="494787191" ref="who-we-are"/>
+    <file name="u6669-6.png" crc="288983545" ref="who-we-are"/>
+    <file name="pasted-svg-149548x140.svg" crc="3817270516" seo="true" ref="who-we-are">
+      <caption webpage="who-we-are" alt=""/>
+    </file>
+    <file name="pasted svg 149548x140_poster_.png" crc="3765628021" ref="who-we-are"/>
+    <file name="pasted-svg-121x140.svg" crc="3858806812" seo="true" ref="who-we-are">
+      <caption webpage="who-we-are" alt=""/>
+    </file>
+    <file name="pasted svg 121x140_poster_.png" crc="258718528" ref="who-we-are"/>
+    <file name="u6673-6.png" crc="501758016" ref="who-we-are"/>
+    <file name="u6674-5.png" crc="81776527" ref="who-we-are"/>
+    <file name="pasted-svg-122x164.svg" crc="3899470911" seo="true" ref="who-we-are">
+      <caption webpage="who-we-are" alt=""/>
+    </file>
+    <file name="pasted svg 122x164_poster_.png" crc="4157934057" ref="who-we-are"/>
+    <file name="pasted-svg-258.svg" crc="455598049" seo="true" ref="who-we-are">
+      <caption webpage="who-we-are" alt=""/>
+    </file>
+    <file name="pasted svg 258_poster_.png" crc="3820478600" ref="who-we-are"/>
+    <file name="u6746-6.png" crc="468013944" ref="who-we-are"/>
+    <file name="pasted-svg-358197x280.svg" crc="3976551786" seo="true" ref="states">
+      <caption webpage="states" alt=""/>
+    </file>
+    <file name="pasted svg 358197x280_poster_.png" crc="356856330" ref="states"/>
+    <file name="pasted-svg-270769x120.svg" crc="517019503" seo="true" ref="states">
+      <caption webpage="states" alt=""/>
+    </file>
+    <file name="pasted svg 270769x120_poster_.png" crc="4237007295" ref="states"/>
+    <file name="pasted-svg-158903x1762.svg" crc="181422978" seo="true" ref="states">
+      <caption webpage="states" alt=""/>
+    </file>
+    <file name="pasted svg 158903x176_poster_2.png" crc="13982552" ref="states"/>
+    <file name="12.jpg" crc="3846169181" ref="states:supporters:blog:scholarships:programs:events">
+      <caption webpage="supporters" alt=""/>
+      <caption webpage="programs" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="scholarships" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="states" alt=""/>
+    </file>
+    <file name="pasted-svg-579x767.svg" crc="109776710" seo="true" ref="supporters:scholarships:events">
+      <caption webpage="supporters" alt=""/>
+      <caption webpage="scholarships" alt=""/>
+      <caption webpage="events" alt=""/>
+    </file>
+    <file name="pasted svg 579x767_poster_.png" crc="4103008962" ref="supporters"/>
+    <file name="pasted-svg-309207x23.svg" crc="59851771" seo="true" ref="supporters">
+      <caption webpage="supporters" alt=""/>
+      <caption webpage="supporters" alt=""/>
+    </file>
+    <file name="pasted svg 309207x23_poster_.png" crc="357293604" ref="supporters"/>
+    <file name="u7043-4.png" crc="351054521" ref="supporters"/>
+    <file name="pasted-svg-309207x232.svg" crc="4264432661" seo="true" ref="blog">
+      <caption webpage="blog" alt=""/>
+    </file>
+    <file name="pasted svg 309207x23_poster_2.png" crc="3918036798" ref="blog"/>
+    <file name="pasted-svg-1024163x371.svg" crc="4176581799" seo="true" ref="blog">
+      <caption webpage="blog" alt=""/>
+    </file>
+    <file name="pasted svg 1024163x371_poster_.png" crc="3777177575" ref="blog"/>
+    <file name="u6905-11.png" crc="98834767" ref="blog"/>
+    <file name="u6906-11.png" crc="3855967290" ref="blog"/>
+    <file name="u6907-11.png" crc="4147410062" ref="blog"/>
+    <file name="pasted-svg-304335x202.svg" crc="144484509" seo="true" ref="blog">
+      <caption webpage="blog" alt=""/>
+    </file>
+    <file name="pasted svg 304335x202_poster_.png" crc="3770278029" ref="blog"/>
+    <file name="pasted-svg-287049x193.svg" crc="4120249111" seo="true" ref="blog">
+      <caption webpage="blog" alt=""/>
+    </file>
+    <file name="pasted svg 287049x193_poster_.png" crc="316389494" ref="blog"/>
+    <file name="pasted-svg-290835x193.svg" crc="4139405659" seo="true" ref="blog">
+      <caption webpage="blog" alt=""/>
+    </file>
+    <file name="pasted svg 290835x193_poster_.png" crc="4087900231" ref="blog"/>
+    <file name="pasted-svg-264616x164.svg" crc="252606313" seo="true" ref="blog">
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+    </file>
+    <file name="pasted svg 264616x164_poster_.png" crc="3859205663" ref="blog"/>
+    <file name="pasted-svg-309207x233.svg" crc="169983024" seo="true" ref="blog">
+      <caption webpage="blog" alt=""/>
+    </file>
+    <file name="pasted svg 309207x23_poster_3.png" crc="4073568027" ref="blog"/>
+    <file name="u6032-4.png" crc="391835129" ref="contact-us"/>
+    <file name="u6031-4.png" crc="3936188470" ref="contact-us"/>
+    <file name="pasted-svg-1024x472.svg" crc="435043833" seo="true" ref="contact-us:programs">
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="programs" alt=""/>
+    </file>
+    <file name="pasted svg 1024x472_poster_.png" crc="259263815" ref="contact-us"/>
+    <file name="pasted-svg-117165x23.svg" crc="4062850845" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="pasted svg 117165x23_poster_.png" crc="270638442" ref="contact-us"/>
+    <file name="u6832-4.png" crc="445275402" ref="arizona"/>
+    <file name="pasted-svg-490128x430.svg" crc="3934751384" seo="true" ref="arizona:mission">
+      <caption webpage="arizona" alt=""/>
+      <caption webpage="mission" alt=""/>
+    </file>
+    <file name="pasted svg 490128x430_poster_.png" crc="3897612986" ref="arizona"/>
+    <file name="u3925-4.png" crc="445275402" ref="nevada"/>
+    <file name="pasted-svg-349383x278.svg" crc="4137818088" seo="true" ref="nevada:mission">
+      <caption webpage="nevada" alt=""/>
+      <caption webpage="mission" alt=""/>
+    </file>
+    <file name="pasted svg 349383x278_poster_.png" crc="15497754" ref="nevada"/>
+    <file name="u6458-4.png" crc="445275402" ref="washington"/>
+    <file name="u6459-4.png" crc="242720273" ref="washington"/>
+    <file name="pasted image 366x267.png" crc="452805019" seo="true" ref="washington">
+      <caption webpage="washington" alt=""/>
+    </file>
+    <file name="pasted-svg-441888x362.svg" crc="4111258209" seo="true" ref="washington:mission:programs">
+      <caption webpage="washington" alt=""/>
+      <caption webpage="mission" alt=""/>
+      <caption webpage="programs" alt=""/>
+      <caption webpage="programs" alt=""/>
+    </file>
+    <file name="pasted svg 441888x362_poster_.png" crc="4191673095" ref="washington"/>
+    <file name="pasted image 639x234.png" crc="4265543805" seo="true" ref="washington:mission">
+      <caption webpage="washington" alt=""/>
+      <caption webpage="mission" alt=""/>
+    </file>
+    <file name="u6865-4.png" crc="445275402" ref="california"/>
+    <file name="pasted-svg-45803x408.svg" crc="4012099477" seo="true" ref="california:mission">
+      <caption webpage="california" alt=""/>
+      <caption webpage="mission" alt=""/>
+    </file>
+    <file name="pasted svg 45803x408_poster_.png" crc="3787937710" ref="california"/>
+    <file name="u6803-4.png" crc="4186806953" ref="hawaii"/>
+    <file name="u6804-4.png" crc="169616895" ref="hawaii"/>
+    <file name="pasted-svg-441888x400.svg" crc="112095369" seo="true" ref="hawaii:mission">
+      <caption webpage="mission" alt=""/>
+      <caption webpage="hawaii" alt=""/>
+    </file>
+    <file name="pasted svg 441888x400_poster_.png" crc="5952376" ref="hawaii"/>
+    <file name="u7235-4.png" crc="249053136" ref="mission"/>
+    <file name="u7236-4.png" crc="4206048661" ref="mission"/>
+    <file name="pasted image 366x267211x154.png" crc="452805019" seo="true" ref="mission">
+      <caption webpage="mission" alt=""/>
+    </file>
+    <file name="pasted image 1600x1600.png" crc="4073354768" seo="true" ref="scholarships:events">
+      <caption webpage="scholarships" alt=""/>
+      <caption webpage="events" alt=""/>
+    </file>
+    <file name="u7627-5.png" crc="4009482415" ref="scholarships"/>
+    <file name="u7628-4.png" crc="28969105" ref="scholarships"/>
+    <file name="u7496-6.png" crc="72699019" ref="programs"/>
+    <file name="u7499-6.png" crc="4008957403" ref="programs"/>
+    <file name="u7502-6.png" crc="385565704" ref="programs"/>
+    <file name="4-crop-u7526.jpg" crc="483089441" seo="true" ref="programs">
+      <caption webpage="programs" alt=""/>
+    </file>
+    <file name="3-crop-u7513.jpg" crc="3766059" seo="true" ref="programs">
+      <caption webpage="programs" alt=""/>
+    </file>
+    <file name="u7560-4.png" crc="234161432" ref="programs"/>
+    <file name="u7561-4.png" crc="82991413" ref="programs"/>
+    <file name="pasted image 1920x1080-crop-u7545.jpg" crc="406264482" seo="true" ref="programs">
+      <caption webpage="programs" alt=""/>
+    </file>
+    <file name="u7702-5.png" crc="4009482415" ref="events"/>
+    <file name="u7703-4.png" crc="28969105" ref="events"/>
+  </folder>
+  <file name="index.html" crc="450624631" seo="true" mt="1524748631626" redirect="true"/>
+  <file name="who-we-are.html" crc="3924573761" seo="true" mt="1524748631626" redirect="true"/>
+  <file name="states.html" crc="300999754" seo="true" mt="1524748772758" redirect="true"/>
+  <file name="supporters.html" crc="315619765" seo="true" mt="1524748631626" redirect="true"/>
+  <file name="blog.html" crc="97026674" seo="true" mt="1524748631626" redirect="true"/>
+  <file name="contact-us.html" crc="445453380" seo="true" mt="1524748631626" redirect="true"/>
+  <file name="arizona.html" crc="374243668" seo="true" mt="1524748772758" redirect="true"/>
+  <file name="nevada.html" crc="108617182" seo="true" mt="1524748772758" redirect="true"/>
+  <file name="washington.html" crc="4147471593" seo="true" mt="1524748772758" redirect="true"/>
+  <file name="california.html" crc="273063827" seo="true" mt="1524748772758" redirect="true"/>
+  <file name="hawaii.html" crc="383030724" seo="true" mt="1524748772758" redirect="true"/>
+  <file name="mission.html" crc="4294636845" seo="true" mt="1524748772758" redirect="true"/>
+  <file name="scholarships.html" crc="3903542832" seo="true" mt="1524748772758" redirect="true"/>
+  <file name="programs.html" crc="303719892" seo="true" mt="1524748772758" redirect="true"/>
+  <file name="events.html" crc="3907863212" seo="true" mt="1524748772758" redirect="true"/>
+</manifest>
